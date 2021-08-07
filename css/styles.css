@@ -55,7 +55,7 @@ h1 {
 }
 
 .main {
-  background-image: url("file:///F:/My Web Development/Project Alpha - Site/imgs/homebg_img.jpg");
+  background-image: url("imgs/homebg_img.jpg");
   box-shadow: 0 0 10px 8px white inset;
   padding-bottom: 200px;
 }

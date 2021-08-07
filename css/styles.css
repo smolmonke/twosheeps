@@ -55,7 +55,7 @@ h1 {
 }
 
 .main {
-  background-image: url("imgs/homebg_img.jpg");
+  background-image: url("https://github.com/smolmonke/twosheeps/blob/main/imgs/homebg_img.jpg?raw=true");
   box-shadow: 0 0 10px 8px white inset;
   padding-bottom: 200px;
 }

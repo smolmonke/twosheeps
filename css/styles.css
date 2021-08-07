@@ -41,10 +41,9 @@
       height: 200px;
     }
 #tbox {
-  padding: 1% 0 1%;
-  background-color: #2f4353;
-  background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 74%);
-  box-shadow: 0 0 4px 0px white inset;
+  padding: 2% 0 2%;
+  background-image: url("https://github.com/smolmonke/twosheeps/blob/main/imgs/snowbarry.png?raw=true");
+  box-shadow: 0 0 4px 0px pink inset;
   text-align: center;
   font-family: 'Pangolin', cursive;
   clear: both;
@@ -52,11 +51,16 @@
 
 h1 {
   color: #FFFFFF;
+  text-shadow: rgb(0, 0, 0) 2px 0px 0px, rgb(0, 0, 0) 1.75517px 0.958851px 0px, rgb(0, 0, 0) 1.0806px 1.68294px 0px, rgb(0, 0, 0) 0.141474px 1.99499px 0px, rgb(0, 0, 0) -0.832294px 1.81859px 0px, rgb(0, 0, 0) -1.60229px 1.19694px 0px, rgb(0, 0, 0) -1.97998px 0.28224px 0px, rgb(0, 0, 0) -1.87291px -0.701566px 0px, rgb(0, 0, 0) -1.30729px -1.5136px 0px, rgb(0, 0, 0) -0.421592px -1.95506px 0px, rgb(0, 0, 0) 0.567324px -1.91785px 0px, rgb(0, 0, 0) 1.41734px -1.41108px 0px, rgb(0, 0, 0) 1.92034px -0.558831px 0px;
+  padding: 0 0.5em 0em;
 }
 
 .main {
-  background-image: url("https://github.com/smolmonke/twosheeps/blob/main/imgs/homebg_img.jpg?raw=true");
-  box-shadow: 0 0 10px 8px white inset;
+  background-color: #d9e4f5;
+  background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
+  box-shadow: 0 0 10px 8px pink inset;
+  object-fit: cover;
+  background-size: cover;
   padding-bottom: 200px;
 }
 

@@ -20,6 +20,10 @@
       text-decoration: none;
       font-family: 'Kalam', cursive;
     }
+    .btn-3:before{
+      top: 0;
+      left: 210px;
+    }
 
     .btn:hover {
       background: #f21ff2;

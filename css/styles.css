@@ -60,9 +60,8 @@ h1 {
 }
 
 .main {
-  background-color: #d9e4f5;
-  background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
-  box-shadow: 0 0 10px 8px pink inset;
+  background-image: url("https://wallpaperaccess.com/full/1311136.jpg");
+  box-shadow: 0 0 10px 8px plum inset;
   object-fit: cover;
   background-size: cover;
   padding-bottom: 200px;
